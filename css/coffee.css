@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+header{
+	background-color: yellow;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+header img{
+	max-width: 100%;
+}
+
+h1, h2 {
+	font-family: "Press Start 2P", cursive;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid lightgreen;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 20px;
+	color: darkgreen;
+}
+
+a{
+	color: darkgreen;
+}
+a:hover{
+	color: yellow;
+	background-color: black;
+}
+
+footer{
+	background-color: yellow;
+	text-align: center;
+	color: black;
+	padding: 20px;
+}
+
+footer p{
+	margin: 0;
+}
