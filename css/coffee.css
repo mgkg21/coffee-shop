@@ -6,7 +6,7 @@ body{
 }
 
 header{
-	background-color: yellow;
+	background-color: gold;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -21,7 +21,7 @@ h1, h2 {
 }
 
 header h1{
-	color: white;
+	color: black;
 }
 
 header img{
@@ -54,7 +54,7 @@ a:hover{
 }
 
 footer{
-	background-color: yellow;
+	background-color: gold;
 	text-align: center;
 	color: black;
 	padding: 20px;
